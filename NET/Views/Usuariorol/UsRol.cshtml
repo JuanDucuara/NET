@@ -1,0 +1,23 @@
+﻿@model IEnumerable<NET.Models.UR>
+@{
+    ViewBag.Title = "Usuario-Rol";
+}
+
+<h2>Usuario-Rol</h2>
+
+
+<table class="table">
+    <tr>
+        <th>ID Usuario</th>
+
+        <th>Descripcion</th> 
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.idUsuario)</td>
+            <td>@Html.DisplayFor(modelItem => item.idRol)</td>  
+        </tr>
+    }
+</table> 

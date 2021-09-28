@@ -1,0 +1,500 @@
+Nombre;Direccion;Telefono;Nombre_Contacto
+Amazon;Calle  elm;1234567;Pedro pallares
+Xbox;Av boyaca;9876543;Lucia casas
+Nintendo;Trans. 12 ;2468086;Andres castillo
+Play Station;Calle 39;1357975;Geronimo cruz
+Sony;Av Ciruela ;112358;Sofia lima
+Amazon;Calle  elm;-218990;Pedro pallares
+Xbox;Av boyaca;-1295288.6;Lucia casas
+Nintendo;Trans. 13;-2371587.2;Andres castillo
+Play Station;Calle 40;-3447885.8;Geronimo cruz
+Sony;Av Ciruela ;-4524184.4;Sofia lima
+Amazon;Calle  elm;-5600483;Pedro pallares
+Xbox;Av boyaca;-6676781.6;Lucia casas
+Nintendo;Trans. 14;-7753080.2;Andres castillo
+Play Station;Calle 41;-8829378.8;Geronimo cruz
+Sony;Av Ciruela ;-9905677.4;Sofia lima
+Amazon;Calle  elm;-10981976;Pedro pallares
+Xbox;Av boyaca;-12058274.6;Lucia casas
+Nintendo;Trans. 15;-13134573.2;Andres castillo
+Play Station;Calle 42;-14210871.8;Geronimo cruz
+Sony;Av Ciruela ;-15287170.4;Sofia lima
+Amazon;Calle  elm;-16363469;Pedro pallares
+Xbox;Av boyaca;-17439767.6;Lucia casas
+Nintendo;Trans. 16;-18516066.2;Andres castillo
+Play Station;Calle 43;-19592364.8;Geronimo cruz
+Sony;Av Ciruela ;-20668663.4;Sofia lima
+Amazon;Calle  elm;-21744962;Pedro pallares
+Xbox;Av boyaca;-22821260.6;Lucia casas
+Nintendo;Trans. 17;-23897559.2;Andres castillo
+Play Station;Calle 44;-24973857.8;Geronimo cruz
+Sony;Av Ciruela ;-26050156.4;Sofia lima
+Amazon;Calle  elm;-27126455;Pedro pallares
+Xbox;Av boyaca;-28202753.6;Lucia casas
+Nintendo;Trans. 18;-29279052.2;Andres castillo
+Play Station;Calle 45;-30355350.8;Geronimo cruz
+Sony;Av Ciruela ;-31431649.4;Sofia lima
+Amazon;Calle  elm;-32507948;Pedro pallares
+Xbox;Av boyaca;-33584246.6;Lucia casas
+Nintendo;Trans. 19;-34660545.2;Andres castillo
+Play Station;Calle 46;-35736843.8;Geronimo cruz
+Sony;Av Ciruela ;-36813142.4;Sofia lima
+Amazon;Calle  elm;-37889441;Pedro pallares
+Xbox;Av boyaca;-38965739.6;Lucia casas
+Nintendo;Trans. 20;-40042038.2;Andres castillo
+Play Station;Calle 47;-41118336.8;Geronimo cruz
+Sony;Av Ciruela ;-42194635.4;Sofia lima
+Amazon;Calle  elm;-43270934;Pedro pallares
+Xbox;Av boyaca;-44347232.6;Lucia casas
+Nintendo;Trans. 21;-45423531.2;Andres castillo
+Play Station;Calle 48;-46499829.8;Geronimo cruz
+Sony;Av Ciruela ;-47576128.4;Sofia lima
+Amazon;Calle  elm;-48652427;Pedro pallares
+Xbox;Av boyaca;-49728725.6;Lucia casas
+Nintendo;Trans. 22;-50805024.2;Andres castillo
+Play Station;Calle 49;-51881322.8;Geronimo cruz
+Sony;Av Ciruela ;-52957621.4;Sofia lima
+Amazon;Calle  elm;-54033920;Pedro pallares
+Xbox;Av boyaca;-55110218.6;Lucia casas
+Nintendo;Trans. 23;-56186517.2;Andres castillo
+Play Station;Calle 50;-57262815.8;Geronimo cruz
+Sony;Av Ciruela ;-58339114.4;Sofia lima
+Amazon;Calle  elm;-59415413;Pedro pallares
+Xbox;Av boyaca;-60491711.6;Lucia casas
+Nintendo;Trans. 24;-61568010.2;Andres castillo
+Play Station;Calle 51;-62644308.8;Geronimo cruz
+Sony;Av Ciruela ;-63720607.4;Sofia lima
+Amazon;Calle  elm;-64796906;Pedro pallares
+Xbox;Av boyaca;-65873204.6;Lucia casas
+Nintendo;Trans. 25;-66949503.2;Andres castillo
+Play Station;Calle 52;-68025801.8;Geronimo cruz
+Sony;Av Ciruela ;-69102100.4;Sofia lima
+Amazon;Calle  elm;-70178399;Pedro pallares
+Xbox;Av boyaca;-71254697.6;Lucia casas
+Nintendo;Trans. 26;-72330996.2;Andres castillo
+Play Station;Calle 53;-73407294.8;Geronimo cruz
+Sony;Av Ciruela ;-74483593.4;Sofia lima
+Amazon;Calle  elm;-75559892;Pedro pallares
+Xbox;Av boyaca;-76636190.6;Lucia casas
+Nintendo;Trans. 27;-77712489.2;Andres castillo
+Play Station;Calle 54;-78788787.8;Geronimo cruz
+Sony;Av Ciruela ;-79865086.4;Sofia lima
+Amazon;Calle  elm;-80941385;Pedro pallares
+Xbox;Av boyaca;-82017683.6;Lucia casas
+Nintendo;Trans. 28;-83093982.2;Andres castillo
+Play Station;Calle 55;-84170280.8;Geronimo cruz
+Sony;Av Ciruela ;-85246579.4;Sofia lima
+Amazon;Calle  elm;-86322878;Pedro pallares
+Xbox;Av boyaca;-87399176.6;Lucia casas
+Nintendo;Trans. 29;-88475475.2;Andres castillo
+Play Station;Calle 56;-89551773.8;Geronimo cruz
+Sony;Av Ciruela ;-90628072.4;Sofia lima
+Amazon;Calle  elm;-91704371;Pedro pallares
+Xbox;Av boyaca;-92780669.6;Lucia casas
+Nintendo;Trans. 30;-93856968.2;Andres castillo
+Play Station;Calle 57;-94933266.8;Geronimo cruz
+Sony;Av Ciruela ;-96009565.4;Sofia lima
+Amazon;Calle  elm;-97085864;Pedro pallares
+Xbox;Av boyaca;-98162162.6;Lucia casas
+Nintendo;Trans. 31;-99238461.2;Andres castillo
+Play Station;Calle 58;-100314759.8;Geronimo cruz
+Sony;Av Ciruela ;-101391058.4;Sofia lima
+Amazon;Calle  elm;-102467357;Pedro pallares
+Xbox;Av boyaca;-103543655.6;Lucia casas
+Nintendo;Trans. 32;-104619954.2;Andres castillo
+Play Station;Calle 59;-105696252.8;Geronimo cruz
+Sony;Av Ciruela ;-106772551.4;Sofia lima
+Amazon;Calle  elm;-107848850;Pedro pallares
+Xbox;Av boyaca;-108925148.6;Lucia casas
+Nintendo;Trans. 33;-110001447.2;Andres castillo
+Play Station;Calle 60;-111077745.8;Geronimo cruz
+Sony;Av Ciruela ;-112154044.4;Sofia lima
+Amazon;Calle  elm;-113230343;Pedro pallares
+Xbox;Av boyaca;-114306641.6;Lucia casas
+Nintendo;Trans. 34;-115382940.2;Andres castillo
+Play Station;Calle 61;-116459238.8;Geronimo cruz
+Sony;Av Ciruela ;-117535537.4;Sofia lima
+Amazon;Calle  elm;-118611836;Pedro pallares
+Xbox;Av boyaca;-119688134.6;Lucia casas
+Nintendo;Trans. 35;-120764433.2;Andres castillo
+Play Station;Calle 62;-121840731.8;Geronimo cruz
+Sony;Av Ciruela ;-122917030.4;Sofia lima
+Amazon;Calle  elm;-123993329;Pedro pallares
+Xbox;Av boyaca;-125069627.6;Lucia casas
+Nintendo;Trans. 36;-126145926.2;Andres castillo
+Play Station;Calle 63;-127222224.8;Geronimo cruz
+Sony;Av Ciruela ;-128298523.4;Sofia lima
+Amazon;Calle  elm;-129374822;Pedro pallares
+Xbox;Av boyaca;-130451120.6;Lucia casas
+Nintendo;Trans. 37;-131527419.2;Andres castillo
+Play Station;Calle 64;-132603717.8;Geronimo cruz
+Sony;Av Ciruela ;-133680016.4;Sofia lima
+Amazon;Calle  elm;-134756315;Pedro pallares
+Xbox;Av boyaca;-135832613.6;Lucia casas
+Nintendo;Trans. 38;-136908912.2;Andres castillo
+Play Station;Calle 65;-137985210.8;Geronimo cruz
+Sony;Av Ciruela ;-139061509.4;Sofia lima
+Amazon;Calle  elm;-140137808;Pedro pallares
+Xbox;Av boyaca;-141214106.6;Lucia casas
+Nintendo;Trans. 39;-142290405.2;Andres castillo
+Play Station;Calle 66;-143366703.8;Geronimo cruz
+Sony;Av Ciruela ;-144443002.4;Sofia lima
+Amazon;Calle  elm;-145519301;Pedro pallares
+Xbox;Av boyaca;-146595599.6;Lucia casas
+Nintendo;Trans. 40;-147671898.2;Andres castillo
+Play Station;Calle 67;-148748196.8;Geronimo cruz
+Sony;Av Ciruela ;-149824495.4;Sofia lima
+Amazon;Calle  elm;-150900794;Pedro pallares
+Xbox;Av boyaca;-151977092.6;Lucia casas
+Nintendo;Trans. 41;-153053391.2;Andres castillo
+Play Station;Calle 68;-154129689.8;Geronimo cruz
+Sony;Av Ciruela ;-155205988.4;Sofia lima
+Amazon;Calle  elm;-156282287;Pedro pallares
+Xbox;Av boyaca;-157358585.6;Lucia casas
+Nintendo;Trans. 42;-158434884.2;Andres castillo
+Play Station;Calle 69;-159511182.8;Geronimo cruz
+Sony;Av Ciruela ;-160587481.4;Sofia lima
+Amazon;Calle  elm;-161663780;Pedro pallares
+Xbox;Av boyaca;-162740078.6;Lucia casas
+Nintendo;Trans. 43;-163816377.2;Andres castillo
+Play Station;Calle 70;-164892675.8;Geronimo cruz
+Sony;Av Ciruela ;-165968974.4;Sofia lima
+Amazon;Calle  elm;-167045273;Pedro pallares
+Xbox;Av boyaca;-168121571.6;Lucia casas
+Nintendo;Trans. 44;-169197870.2;Andres castillo
+Play Station;Calle 71;-170274168.8;Geronimo cruz
+Sony;Av Ciruela ;-171350467.4;Sofia lima
+Amazon;Calle  elm;-172426766;Pedro pallares
+Xbox;Av boyaca;-173503064.6;Lucia casas
+Nintendo;Trans. 45;-174579363.2;Andres castillo
+Play Station;Calle 72;-175655661.8;Geronimo cruz
+Sony;Av Ciruela ;-176731960.4;Sofia lima
+Amazon;Calle  elm;-177808259;Pedro pallares
+Xbox;Av boyaca;-178884557.6;Lucia casas
+Nintendo;Trans. 46;-179960856.2;Andres castillo
+Play Station;Calle 73;-181037154.8;Geronimo cruz
+Sony;Av Ciruela ;-182113453.4;Sofia lima
+Amazon;Calle  elm;-183189752;Pedro pallares
+Xbox;Av boyaca;-184266050.6;Lucia casas
+Nintendo;Trans. 47;-185342349.2;Andres castillo
+Play Station;Calle 74;-186418647.8;Geronimo cruz
+Sony;Av Ciruela ;-187494946.4;Sofia lima
+Amazon;Calle  elm;-188571245;Pedro pallares
+Xbox;Av boyaca;-189647543.6;Lucia casas
+Nintendo;Trans. 48;-190723842.2;Andres castillo
+Play Station;Calle 75;-191800140.8;Geronimo cruz
+Sony;Av Ciruela ;-192876439.4;Sofia lima
+Amazon;Calle  elm;-193952738;Pedro pallares
+Xbox;Av boyaca;-195029036.6;Lucia casas
+Nintendo;Trans. 49;-196105335.2;Andres castillo
+Play Station;Calle 76;-197181633.8;Geronimo cruz
+Sony;Av Ciruela ;-198257932.4;Sofia lima
+Amazon;Calle  elm;-199334231;Pedro pallares
+Xbox;Av boyaca;-200410529.6;Lucia casas
+Nintendo;Trans. 50;-201486828.2;Andres castillo
+Play Station;Calle 77;-202563126.8;Geronimo cruz
+Sony;Av Ciruela ;-203639425.4;Sofia lima
+Amazon;Calle  elm;-204715724;Pedro pallares
+Xbox;Av boyaca;-205792022.6;Lucia casas
+Nintendo;Trans. 51;-206868321.2;Andres castillo
+Play Station;Calle 78;-207944619.8;Geronimo cruz
+Sony;Av Ciruela ;-209020918.4;Sofia lima
+Amazon;Calle  elm;-210097217;Pedro pallares
+Xbox;Av boyaca;-211173515.6;Lucia casas
+Nintendo;Trans. 52;-212249814.2;Andres castillo
+Play Station;Calle 79;-213326112.8;Geronimo cruz
+Sony;Av Ciruela ;-214402411.4;Sofia lima
+Amazon;Calle  elm;-215478710;Pedro pallares
+Xbox;Av boyaca;-216555008.6;Lucia casas
+Nintendo;Trans. 53;-217631307.2;Andres castillo
+Play Station;Calle 80;-218707605.8;Geronimo cruz
+Sony;Av Ciruela ;-219783904.4;Sofia lima
+Amazon;Calle  elm;-220860203;Pedro pallares
+Xbox;Av boyaca;-221936501.6;Lucia casas
+Nintendo;Trans. 54;-223012800.2;Andres castillo
+Play Station;Calle 81;-224089098.8;Geronimo cruz
+Sony;Av Ciruela ;-225165397.4;Sofia lima
+Amazon;Calle  elm;-226241696;Pedro pallares
+Xbox;Av boyaca;-227317994.6;Lucia casas
+Nintendo;Trans. 55;-228394293.2;Andres castillo
+Play Station;Calle 82;-229470591.8;Geronimo cruz
+Sony;Av Ciruela ;-230546890.4;Sofia lima
+Amazon;Calle  elm;-231623189;Pedro pallares
+Xbox;Av boyaca;-232699487.6;Lucia casas
+Nintendo;Trans. 56;-233775786.2;Andres castillo
+Play Station;Calle 83;-234852084.8;Geronimo cruz
+Sony;Av Ciruela ;-235928383.4;Sofia lima
+Amazon;Calle  elm;-237004682;Pedro pallares
+Xbox;Av boyaca;-238080980.6;Lucia casas
+Nintendo;Trans. 57;-239157279.2;Andres castillo
+Play Station;Calle 84;-240233577.8;Geronimo cruz
+Sony;Av Ciruela ;-241309876.4;Sofia lima
+Amazon;Calle  elm;-242386175;Pedro pallares
+Xbox;Av boyaca;-243462473.6;Lucia casas
+Nintendo;Trans. 58;-244538772.2;Andres castillo
+Play Station;Calle 85;-245615070.8;Geronimo cruz
+Sony;Av Ciruela ;-246691369.4;Sofia lima
+Amazon;Calle  elm;-247767668;Pedro pallares
+Xbox;Av boyaca;-248843966.6;Lucia casas
+Nintendo;Trans. 59;-249920265.2;Andres castillo
+Play Station;Calle 86;-250996563.8;Geronimo cruz
+Sony;Av Ciruela ;-252072862.4;Sofia lima
+Amazon;Calle  elm;-253149161;Pedro pallares
+Xbox;Av boyaca;-254225459.6;Lucia casas
+Nintendo;Trans. 60;-255301758.2;Andres castillo
+Play Station;Calle 87;-256378056.8;Geronimo cruz
+Sony;Av Ciruela ;-257454355.4;Sofia lima
+Amazon;Calle  elm;-258530654;Pedro pallares
+Xbox;Av boyaca;-259606952.6;Lucia casas
+Nintendo;Trans. 61;-260683251.2;Andres castillo
+Play Station;Calle 88;-261759549.8;Geronimo cruz
+Sony;Av Ciruela ;-262835848.4;Sofia lima
+Amazon;Calle  elm;-263912147;Pedro pallares
+Xbox;Av boyaca;-264988445.6;Lucia casas
+Nintendo;Trans. 62;-266064744.2;Andres castillo
+Play Station;Calle 89;-267141042.8;Geronimo cruz
+Sony;Av Ciruela ;-268217341.4;Sofia lima
+Amazon;Calle  elm;-269293640;Pedro pallares
+Xbox;Av boyaca;-270369938.6;Lucia casas
+Nintendo;Trans. 63;-271446237.2;Andres castillo
+Play Station;Calle 90;-272522535.8;Geronimo cruz
+Sony;Av Ciruela ;-273598834.4;Sofia lima
+Amazon;Calle  elm;-274675133;Pedro pallares
+Xbox;Av boyaca;-275751431.6;Lucia casas
+Nintendo;Trans. 64;-276827730.2;Andres castillo
+Play Station;Calle 91;-277904028.8;Geronimo cruz
+Sony;Av Ciruela ;-278980327.4;Sofia lima
+Amazon;Calle  elm;-280056626;Pedro pallares
+Xbox;Av boyaca;-281132924.6;Lucia casas
+Nintendo;Trans. 65;-282209223.2;Andres castillo
+Play Station;Calle 92;-283285521.8;Geronimo cruz
+Sony;Av Ciruela ;-284361820.4;Sofia lima
+Amazon;Calle  elm;-285438119;Pedro pallares
+Xbox;Av boyaca;-286514417.6;Lucia casas
+Nintendo;Trans. 66;-287590716.2;Andres castillo
+Play Station;Calle 93;-288667014.8;Geronimo cruz
+Sony;Av Ciruela ;-289743313.4;Sofia lima
+Amazon;Calle  elm;-290819612;Pedro pallares
+Xbox;Av boyaca;-291895910.6;Lucia casas
+Nintendo;Trans. 67;-292972209.2;Andres castillo
+Play Station;Calle 94;-294048507.8;Geronimo cruz
+Sony;Av Ciruela ;-295124806.4;Sofia lima
+Amazon;Calle  elm;-296201105;Pedro pallares
+Xbox;Av boyaca;-297277403.6;Lucia casas
+Nintendo;Trans. 68;-298353702.2;Andres castillo
+Play Station;Calle 95;-299430000.8;Geronimo cruz
+Sony;Av Ciruela ;-300506299.4;Sofia lima
+Amazon;Calle  elm;-301582598;Pedro pallares
+Xbox;Av boyaca;-302658896.6;Lucia casas
+Nintendo;Trans. 69;-303735195.2;Andres castillo
+Play Station;Calle 96;-304811493.8;Geronimo cruz
+Sony;Av Ciruela ;-305887792.4;Sofia lima
+Amazon;Calle  elm;-306964091;Pedro pallares
+Xbox;Av boyaca;-308040389.6;Lucia casas
+Nintendo;Trans. 70;-309116688.2;Andres castillo
+Play Station;Calle 97;-310192986.8;Geronimo cruz
+Sony;Av Ciruela ;-311269285.4;Sofia lima
+Amazon;Calle  elm;-312345584;Pedro pallares
+Xbox;Av boyaca;-313421882.6;Lucia casas
+Nintendo;Trans. 71;-314498181.2;Andres castillo
+Play Station;Calle 98;-315574479.8;Geronimo cruz
+Sony;Av Ciruela ;-316650778.4;Sofia lima
+Amazon;Calle  elm;-317727077;Pedro pallares
+Xbox;Av boyaca;-318803375.6;Lucia casas
+Nintendo;Trans. 72;-319879674.2;Andres castillo
+Play Station;Calle 99;-320955972.8;Geronimo cruz
+Sony;Av Ciruela ;-322032271.4;Sofia lima
+Amazon;Calle  elm;-323108570;Pedro pallares
+Xbox;Av boyaca;-324184868.6;Lucia casas
+Nintendo;Trans. 73;-325261167.2;Andres castillo
+Play Station;Calle 100;-326337465.8;Geronimo cruz
+Sony;Av Ciruela ;-327413764.4;Sofia lima
+Amazon;Calle  elm;-328490063;Pedro pallares
+Xbox;Av boyaca;-329566361.6;Lucia casas
+Nintendo;Trans. 74;-330642660.2;Andres castillo
+Play Station;Calle 101;-331718958.8;Geronimo cruz
+Sony;Av Ciruela ;-332795257.4;Sofia lima
+Amazon;Calle  elm;-333871556;Pedro pallares
+Xbox;Av boyaca;-334947854.6;Lucia casas
+Nintendo;Trans. 75;-336024153.2;Andres castillo
+Play Station;Calle 102;-337100451.8;Geronimo cruz
+Sony;Av Ciruela ;-338176750.4;Sofia lima
+Amazon;Calle  elm;-339253049;Pedro pallares
+Xbox;Av boyaca;-340329347.6;Lucia casas
+Nintendo;Trans. 76;-341405646.2;Andres castillo
+Play Station;Calle 103;-342481944.8;Geronimo cruz
+Sony;Av Ciruela ;-343558243.4;Sofia lima
+Amazon;Calle  elm;-344634542;Pedro pallares
+Xbox;Av boyaca;-345710840.6;Lucia casas
+Nintendo;Trans. 77;-346787139.2;Andres castillo
+Play Station;Calle 104;-347863437.8;Geronimo cruz
+Sony;Av Ciruela ;-348939736.4;Sofia lima
+Amazon;Calle  elm;-350016035;Pedro pallares
+Xbox;Av boyaca;-351092333.6;Lucia casas
+Nintendo;Trans. 78;-352168632.2;Andres castillo
+Play Station;Calle 105;-353244930.8;Geronimo cruz
+Sony;Av Ciruela ;-354321229.4;Sofia lima
+Amazon;Calle  elm;-355397528;Pedro pallares
+Xbox;Av boyaca;-356473826.6;Lucia casas
+Nintendo;Trans. 79;-357550125.2;Andres castillo
+Play Station;Calle 106;-358626423.8;Geronimo cruz
+Sony;Av Ciruela ;-359702722.4;Sofia lima
+Amazon;Calle  elm;-360779021;Pedro pallares
+Xbox;Av boyaca;-361855319.6;Lucia casas
+Nintendo;Trans. 80;-362931618.2;Andres castillo
+Play Station;Calle 107;-364007916.8;Geronimo cruz
+Sony;Av Ciruela ;-365084215.4;Sofia lima
+Amazon;Calle  elm;-366160514;Pedro pallares
+Xbox;Av boyaca;-367236812.6;Lucia casas
+Nintendo;Trans. 81;-368313111.2;Andres castillo
+Play Station;Calle 108;-369389409.8;Geronimo cruz
+Sony;Av Ciruela ;-370465708.4;Sofia lima
+Amazon;Calle  elm;-371542007;Pedro pallares
+Xbox;Av boyaca;-372618305.6;Lucia casas
+Nintendo;Trans. 82;-373694604.2;Andres castillo
+Play Station;Calle 109;-374770902.8;Geronimo cruz
+Sony;Av Ciruela ;-375847201.4;Sofia lima
+Amazon;Calle  elm;-376923500;Pedro pallares
+Xbox;Av boyaca;-377999798.6;Lucia casas
+Nintendo;Trans. 83;-379076097.2;Andres castillo
+Play Station;Calle 110;-380152395.8;Geronimo cruz
+Sony;Av Ciruela ;-381228694.4;Sofia lima
+Amazon;Calle  elm;-382304993;Pedro pallares
+Xbox;Av boyaca;-383381291.6;Lucia casas
+Nintendo;Trans. 84;-384457590.2;Andres castillo
+Play Station;Calle 111;-385533888.8;Geronimo cruz
+Sony;Av Ciruela ;-386610187.4;Sofia lima
+Amazon;Calle  elm;-387686486;Pedro pallares
+Xbox;Av boyaca;-388762784.6;Lucia casas
+Nintendo;Trans. 85;-389839083.2;Andres castillo
+Play Station;Calle 112;-390915381.8;Geronimo cruz
+Sony;Av Ciruela ;-391991680.4;Sofia lima
+Amazon;Calle  elm;-393067979;Pedro pallares
+Xbox;Av boyaca;-394144277.6;Lucia casas
+Nintendo;Trans. 86;-395220576.2;Andres castillo
+Play Station;Calle 113;-396296874.8;Geronimo cruz
+Sony;Av Ciruela ;-397373173.4;Sofia lima
+Amazon;Calle  elm;-398449472;Pedro pallares
+Xbox;Av boyaca;-399525770.6;Lucia casas
+Nintendo;Trans. 87;-400602069.2;Andres castillo
+Play Station;Calle 114;-401678367.8;Geronimo cruz
+Sony;Av Ciruela ;-402754666.4;Sofia lima
+Amazon;Calle  elm;-403830965;Pedro pallares
+Xbox;Av boyaca;-404907263.6;Lucia casas
+Nintendo;Trans. 88;-405983562.2;Andres castillo
+Play Station;Calle 115;-407059860.8;Geronimo cruz
+Sony;Av Ciruela ;-408136159.4;Sofia lima
+Amazon;Calle  elm;-409212458;Pedro pallares
+Xbox;Av boyaca;-410288756.6;Lucia casas
+Nintendo;Trans. 89;-411365055.2;Andres castillo
+Play Station;Calle 116;-412441353.8;Geronimo cruz
+Sony;Av Ciruela ;-413517652.4;Sofia lima
+Amazon;Calle  elm;-414593951;Pedro pallares
+Xbox;Av boyaca;-415670249.6;Lucia casas
+Nintendo;Trans. 90;-416746548.2;Andres castillo
+Play Station;Calle 117;-417822846.8;Geronimo cruz
+Sony;Av Ciruela ;-418899145.4;Sofia lima
+Amazon;Calle  elm;-419975444;Pedro pallares
+Xbox;Av boyaca;-421051742.6;Lucia casas
+Nintendo;Trans. 91;-422128041.2;Andres castillo
+Play Station;Calle 118;-423204339.8;Geronimo cruz
+Sony;Av Ciruela ;-424280638.4;Sofia lima
+Amazon;Calle  elm;-425356937;Pedro pallares
+Xbox;Av boyaca;-426433235.6;Lucia casas
+Nintendo;Trans. 92;-427509534.2;Andres castillo
+Play Station;Calle 119;-428585832.8;Geronimo cruz
+Sony;Av Ciruela ;-429662131.4;Sofia lima
+Amazon;Calle  elm;-430738430;Pedro pallares
+Xbox;Av boyaca;-431814728.6;Lucia casas
+Nintendo;Trans. 93;-432891027.2;Andres castillo
+Play Station;Calle 120;-433967325.8;Geronimo cruz
+Sony;Av Ciruela ;-435043624.4;Sofia lima
+Amazon;Calle  elm;-436119923;Pedro pallares
+Xbox;Av boyaca;-437196221.6;Lucia casas
+Nintendo;Trans. 94;-438272520.2;Andres castillo
+Play Station;Calle 121;-439348818.8;Geronimo cruz
+Sony;Av Ciruela ;-440425117.4;Sofia lima
+Amazon;Calle  elm;-441501416;Pedro pallares
+Xbox;Av boyaca;-442577714.6;Lucia casas
+Nintendo;Trans. 95;-443654013.2;Andres castillo
+Play Station;Calle 122;-444730311.8;Geronimo cruz
+Sony;Av Ciruela ;-445806610.4;Sofia lima
+Amazon;Calle  elm;-446882909;Pedro pallares
+Xbox;Av boyaca;-447959207.6;Lucia casas
+Nintendo;Trans. 96;-449035506.2;Andres castillo
+Play Station;Calle 123;-450111804.8;Geronimo cruz
+Sony;Av Ciruela ;-451188103.4;Sofia lima
+Amazon;Calle  elm;-452264402;Pedro pallares
+Xbox;Av boyaca;-453340700.6;Lucia casas
+Nintendo;Trans. 97;-454416999.2;Andres castillo
+Play Station;Calle 124;-455493297.8;Geronimo cruz
+Sony;Av Ciruela ;-456569596.4;Sofia lima
+Amazon;Calle  elm;-457645895;Pedro pallares
+Xbox;Av boyaca;-458722193.6;Lucia casas
+Nintendo;Trans. 98;-459798492.2;Andres castillo
+Play Station;Calle 125;-460874790.8;Geronimo cruz
+Sony;Av Ciruela ;-461951089.4;Sofia lima
+Amazon;Calle  elm;-463027388;Pedro pallares
+Xbox;Av boyaca;-464103686.6;Lucia casas
+Nintendo;Trans. 99;-465179985.2;Andres castillo
+Play Station;Calle 126;-466256283.8;Geronimo cruz
+Sony;Av Ciruela ;-467332582.4;Sofia lima
+Amazon;Calle  elm;-468408881;Pedro pallares
+Xbox;Av boyaca;-469485179.6;Lucia casas
+Nintendo;Trans. 100;-470561478.2;Andres castillo
+Play Station;Calle 127;-471637776.8;Geronimo cruz
+Sony;Av Ciruela ;-472714075.4;Sofia lima
+Amazon;Calle  elm;-473790374;Pedro pallares
+Xbox;Av boyaca;-474866672.6;Lucia casas
+Nintendo;Trans. 101;-475942971.2;Andres castillo
+Play Station;Calle 128;-477019269.8;Geronimo cruz
+Sony;Av Ciruela ;-478095568.4;Sofia lima
+Amazon;Calle  elm;-479171867;Pedro pallares
+Xbox;Av boyaca;-480248165.6;Lucia casas
+Nintendo;Trans. 102;-481324464.2;Andres castillo
+Play Station;Calle 129;-482400762.8;Geronimo cruz
+Sony;Av Ciruela ;-483477061.4;Sofia lima
+Amazon;Calle  elm;-484553360;Pedro pallares
+Xbox;Av boyaca;-485629658.6;Lucia casas
+Nintendo;Trans. 103;-486705957.2;Andres castillo
+Play Station;Calle 130;-487782255.8;Geronimo cruz
+Sony;Av Ciruela ;-488858554.4;Sofia lima
+Amazon;Calle  elm;-489934853;Pedro pallares
+Xbox;Av boyaca;-491011151.6;Lucia casas
+Nintendo;Trans. 104;-492087450.2;Andres castillo
+Play Station;Calle 131;-493163748.8;Geronimo cruz
+Sony;Av Ciruela ;-494240047.4;Sofia lima
+Amazon;Calle  elm;-495316346;Pedro pallares
+Xbox;Av boyaca;-496392644.6;Lucia casas
+Nintendo;Trans. 105;-497468943.2;Andres castillo
+Play Station;Calle 132;-498545241.8;Geronimo cruz
+Sony;Av Ciruela ;-499621540.4;Sofia lima
+Amazon;Calle  elm;-500697839;Pedro pallares
+Xbox;Av boyaca;-501774137.6;Lucia casas
+Nintendo;Trans. 106;-502850436.2;Andres castillo
+Play Station;Calle 133;-503926734.8;Geronimo cruz
+Sony;Av Ciruela ;-505003033.4;Sofia lima
+Amazon;Calle  elm;-506079332;Pedro pallares
+Xbox;Av boyaca;-507155630.6;Lucia casas
+Nintendo;Trans. 107;-508231929.2;Andres castillo
+Play Station;Calle 134;-509308227.8;Geronimo cruz
+Sony;Av Ciruela ;-510384526.4;Sofia lima
+Amazon;Calle  elm;-511460825;Pedro pallares
+Xbox;Av boyaca;-512537123.6;Lucia casas
+Nintendo;Trans. 108;-513613422.2;Andres castillo
+Play Station;Calle 135;-514689720.8;Geronimo cruz
+Sony;Av Ciruela ;-515766019.4;Sofia lima
+Amazon;Calle  elm;-516842318;Pedro pallares
+Xbox;Av boyaca;-517918616.6;Lucia casas
+Nintendo;Trans. 109;-518994915.2;Andres castillo
+Play Station;Calle 136;-520071213.8;Geronimo cruz
+Sony;Av Ciruela ;-521147512.4;Sofia lima
+Amazon;Calle  elm;-522223811;Pedro pallares
+Xbox;Av boyaca;-523300109.6;Lucia casas
+Nintendo;Trans. 110;-524376408.2;Andres castillo
+Play Station;Calle 137;-525452706.8;Geronimo cruz
+Sony;Av Ciruela ;-526529005.4;Sofia lima
+Amazon;Calle  elm;-527605304;Pedro pallares
+Xbox;Av boyaca;-528681602.6;Lucia casas
+Nintendo;Trans. 111;-529757901.2;Andres castillo
+Play Station;Calle 138;-530834199.8;Geronimo cruz
