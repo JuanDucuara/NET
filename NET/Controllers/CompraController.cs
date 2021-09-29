@@ -11,14 +11,6 @@ namespace NET.Controllers
     {
         [Authorize]
         // GET: Compra
-        //public ActionResult Index()
-        //{
-        //    return View();
-        //}
-        public ActionResult Create()
-        {
-            return View();
-        }
         public ActionResult Index()
         {
             try
@@ -38,6 +30,10 @@ namespace NET.Controllers
                 ModelState.AddModelError("", "error " + ex);
                 return View();
             }
+        }
+        public ActionResult Create()
+        {
+            return View();
         }
 
         [HttpPost]

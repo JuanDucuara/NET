@@ -6,18 +6,24 @@
 <h2>Usuario-Rol</h2>
 
 
-<table class="table">
-    <tr>
-        <th>ID Usuario</th>
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            <th>ID Usuario</th>
 
-        <th>Descripcion</th> 
+            <th>Descripcion</th>
 
-    </tr>
+        </tr>
+    </thead>
+   
     @foreach (var item in Model)
     {
-        <tr>
-            <td>@Html.DisplayFor(modelItem => item.idUsuario)</td>
-            <td>@Html.DisplayFor(modelItem => item.idRol)</td>  
-        </tr>
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.idUsuario)</td>
+                <td>@Html.DisplayFor(modelItem => item.idRol)</td>
+            </tr>
+        </tbody>
+        
     }
 </table> 
