@@ -12,6 +12,7 @@ namespace NET.Controllers
     {
         [Authorize]
         // GET: Producto
+
         public ActionResult Index()
         {
             using (var db = new inventario2021Entities1())
@@ -21,6 +22,7 @@ namespace NET.Controllers
             }
 
         }
+
         public ActionResult ListaProveedores()
         {
             using (var db = new inventario2021Entities1())

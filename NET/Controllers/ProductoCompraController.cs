@@ -6,29 +6,29 @@ using System.Web.Mvc;
 using NET.Models;
 namespace NET.Controllers
 {
-    public class CompraController : Controller
+    public class ProductoCompraController : Controller
     {
-        // GET: Compra
+        // GET: ProductoCompra
         public ActionResult Index()
         {
             using (var db = new inventario2021Entities1())
             {
-                return View(db.compra.ToList());
+                return View(db.producto_compra.ToList());
             }
         }
-        //Llaves foraneas del index
-        public static string NombreUsuario(int idUsuario)
+
+        public static int Nombrecompra(int idCompra)
         {
             using (var db = new inventario2021Entities1())
             {
-                return db.usuario.Find(idUsuario).nombre;
+                return db.compra.Find(idCompra).id;
             }
         }
-        public static string NombreCliente(int idCliente)
+        public static string NombreProductos (int idPro)
         {
             using (var db = new inventario2021Entities1())
             {
-                return db.cliente.Find(idCliente).nombre;
+                return db.producto.Find(idPro).nombre;
             }
         }
 
@@ -38,24 +38,24 @@ namespace NET.Controllers
         }
 
 
-        public ActionResult ListarUsuario()
+        public ActionResult ListarCompra()
         {
             using (var db = new inventario2021Entities1())
             {
-                return PartialView(db.usuario.ToList());
+                return PartialView(db.compra.ToList());
             }
         }
-        public ActionResult ListarCliente()
+        public ActionResult ListarProducto()
         {
             using (var db = new inventario2021Entities1())
             {
-                return PartialView(db.cliente.ToList());
+                return PartialView(db.producto.ToList());
             }
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(compra compra)
+        public ActionResult Create(producto_compra compra)
         {
             if (!ModelState.IsValid)
                 return View();
@@ -64,7 +64,7 @@ namespace NET.Controllers
             {
                 using (var db = new inventario2021Entities1())
                 {
-                    db.compra.Add(compra);
+                    db.producto_compra.Add(compra);
                     db.SaveChanges();
                     return RedirectToAction("Index");
                 }
@@ -79,7 +79,7 @@ namespace NET.Controllers
         {
             using (var db = new inventario2021Entities1())
             {
-                var findcom = db.compra.Find(id);
+                var findcom = db.producto_compra.Find(id);
                 return View(findcom);
             }
         }
@@ -89,8 +89,8 @@ namespace NET.Controllers
             {
                 using (var db = new inventario2021Entities1())
                 {
-                    var findcom = db.compra.Find(id);
-                    db.compra.Remove(findcom);
+                    var findcom = db.producto_compra.Find(id);
+                    db.producto_compra.Remove(findcom);
                     db.SaveChanges();
                     return RedirectToAction("Index");
 
@@ -108,7 +108,7 @@ namespace NET.Controllers
             {
                 using (var db = new inventario2021Entities1())
                 {
-                    compra findcom = db.compra.Where(a => a.id == id).FirstOrDefault();
+                    producto_compra findcom = db.producto_compra.Where(a => a.id == id).FirstOrDefault();
                     return View(findcom);
                 }
 
@@ -123,17 +123,17 @@ namespace NET.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(compra editCompra)
+        public ActionResult Edit(producto_compra editCompra)
         {
             try
             {
                 using (var db = new inventario2021Entities1())
                 {
-                    compra ente = db.compra.Find(editCompra.id);
-                    ente.fecha = editCompra.fecha;
-                    ente.total = editCompra.total;
-                    ente.id_usuario = editCompra.id_usuario;
-                    ente.id_cliente = editCompra.id_cliente;
+                    producto_compra ente = db.producto_compra.Find(editCompra.id);
+                    ente.id_compra = editCompra.id_compra;
+                    ente.id_producto = editCompra.id_producto;
+                    ente.cantidad = editCompra.cantidad;
+                  
 
                     db.SaveChanges();
                     return RedirectToAction("Index");

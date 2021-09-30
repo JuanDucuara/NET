@@ -23,6 +23,7 @@ namespace NET.Models
     
         public int id { get; set; }
 
+
         [Required(ErrorMessage = "El campo es obligatorio")]
         [StringLength(25, ErrorMessage = "Maximo 25 caracteres")]
         public string nombre { get; set; }

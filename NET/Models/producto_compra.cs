@@ -11,12 +11,15 @@ namespace NET.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
     public partial class producto_compra
+
     {
         public int id { get; set; }
         public int id_compra { get; set; }
         public int id_producto { get; set; }
+
+        [Required(ErrorMessage = "El campo es obligatorio")]
         public int cantidad { get; set; }
     
         public virtual compra compra { get; set; }
